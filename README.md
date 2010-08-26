@@ -1,3 +1,4 @@
 # File List #
 
 * .vimrc
+* .gemrc
