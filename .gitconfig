@@ -1,0 +1,11 @@
+[user]
+	name = [First and Last Name]
+	email = [Email]
+[apply]
+	whitespace = nowarn
+[diff]
+	color = auto
+[status]
+	color = auto
+[push]
+	default = tracking
