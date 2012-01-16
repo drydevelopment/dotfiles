@@ -1,19 +1,26 @@
-syntax on
+syntax enable
+set background=dark
 
-set number
+set clipboard=unnamed
 
-set autoindent
-set smartindent
-set nocompatible
-set shiftwidth=2
+set softtabstop=2
 set tabstop=2
-set smarttab
+set shiftwidth=2
+set textwidth=0 " unlimited
+set noexpandtab
+set nolist
+set number
+set autoindent
+set showmatch
+set showmode
+set nowrap
+set expandtab
 
 set pastetoggle=<F2>
 set noswapfile
 set ignorecase
 
-set bg=dark
+set bg=light
 set enc=utf-8
 
 filetype on
