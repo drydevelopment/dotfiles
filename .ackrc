@@ -1,0 +1,3 @@
+--type-set=erb=.erb
+--type-set=ruby=.rb
+--type-set=rb=.rb
